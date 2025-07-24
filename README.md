@@ -1,4 +1,4 @@
-# -Gmail-Cleanup-Automation-using-Python
+# Gmail-Cleanup-Automation-using-Python
 
 **Project Overview**
 This Python project is built using the Gmail API, allowing users to automatically clean up unwanted promotional, social, and subscription emails from specific senders or by keyword. It moves them to trash and immediately empties it — all without storing any credentials, ensuring privacy and security.
